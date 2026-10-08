@@ -24,3 +24,6 @@
 | **Gestión**        | CloudFormation     | **PaaS**   | Permite modelar y aprovisionar toda la infraestructura en la nube mediante archivos de texto o código. |
 |                    | Amazon CloudWatch  | **PaaS**   | _logs_) y configura alertas de rendimiento para tus aplicaciones y recursos.                           |
 |                    | AWS CodePipeline   | **PaaS**   | Automatización de integración y entrega (CI/CD).                                                       |
+
+
+_logs_) y configura alertas de rendimiento para tus aplicaciones y recursos. [[1](https://www.youtube.com/watch?v=GttcW5hMz_0&t=410), [2](https://aws.amazon.com/es/products/management-tools/)]
