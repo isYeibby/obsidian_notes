@@ -1,18 +1,28 @@
-# Obsidian - archivos específicos del dispositivo
+# =======================================================
+# Obsidian: Estados de ventana, UI local y cachés
+# =======================================================
+# Cambian constantemente según la pantalla y pestañas abiertas (causa principal de conflictos)
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 
-# Cachés de Obsidian
+# Cachés locales e indexación interna
 .obsidian/cache/
+.obsidian/.cache/
 
-# Sistema operativo
+# =======================================================
+# Archivos del sistema operativo y respaldos temporales
+# =======================================================
+.trash/
 .DS_Store
 Thumbs.db
-desktop.ini
-
-# Archivos temporales
-*.tmp
-*.temp
-*.swp
-*.swo
 *~
+*.tmp
+*.swp
+
+# =======================================================
+# (Opcional) Archivos multimedia pesados
+# Descomenta si manejas grabaciones o videos grandes y no usas Git LFS
+# =======================================================
+# *.mp4
+# *.mkv
+# *.zip
