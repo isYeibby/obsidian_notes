@@ -22,5 +22,5 @@
 |                    | Amazon Rekognition | **SaaS**   | API lista para usar de análisis visual e imágenes.                                                     |
 |                    | Amazon Bedrock     | **PaaS**   | Acceso unificado a modelos de IA Generativa.                                                           |
 | **Gestión**        | CloudFormation     | **PaaS**   | Permite modelar y aprovisionar toda la infraestructura en la nube mediante archivos de texto o código. |
-|                    | Amazon CloudWatch  | **PaaS**   | Monitoreo, logs y alertas del sistema.                                                                 |
+|                    | Amazon CloudWatch  | **PaaS**   | _logs_) y configura alertas de rendimiento para tus aplicaciones y recursos.                           |
 |                    | AWS CodePipeline   | **PaaS**   | Automatización de integración y entrega (CI/CD).                                                       |
