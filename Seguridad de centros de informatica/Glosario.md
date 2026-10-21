@@ -226,35 +226,6 @@ El artículo destaca que los planes BCDR se diseñan para mitigar una gran varie
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - **Malware:** Término genérico que engloba cualquier software malicioso (como virus, gusanos o troyanos) diseñado para infiltrarse, dañar o comprometer sistemas informáticos y redes.
     
 - **Ransomware:** Tipo específico de malware que cifra los archivos o bloquea el acceso a un sistema informático, exigiendo el pago de un rescate económico a cambio de restaurar el acceso a la información.
