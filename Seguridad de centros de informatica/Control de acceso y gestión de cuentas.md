@@ -5,3 +5,9 @@ El control de acceso generalmente se refiere al proceso de poner los recursos a 
 - Control de acceso discrecional (DAC)
 - Control de acceso basado en roles (RBAC)
 
+### TCSEC identifica niveles de seguridad basados en el nivel mínimo de control de acceso
+
+- A - Verificado   
+- B - Obligatorio
+- C - Discrecional
+- D - Mínimo
